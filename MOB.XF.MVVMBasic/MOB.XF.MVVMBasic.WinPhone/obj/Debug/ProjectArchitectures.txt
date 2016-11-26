@@ -1,0 +1,2 @@
+C:\Users\MOB_UWP\Documents\Git\MOB.XF.MVVMBasic\MOB.XF.MVVMBasic\MOB.XF.MVVMBasic\MOB.XF.MVVMBasic.WinPhone\MOB.XF.MVVMBasic.WinPhone.csproj;neutral
+C:\Users\MOB_UWP\Documents\Git\MOB.XF.MVVMBasic\MOB.XF.MVVMBasic\MOB.XF.MVVMBasic\MOB.XF.MVVMBasic\MOB.XF.MVVMBasic.csproj;neutral

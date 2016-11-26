@@ -1,0 +1,2 @@
+android.app.Application
+MOB.XF.MVVMBasic.Droid
